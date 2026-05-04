@@ -20,10 +20,10 @@
 
 | Detail | Information |
 |--------|-------------|
-| **Client** | [Organization Name] |
+| **Client** | Boston Institute of Analytics |
 | **Engagement Type** | Black Box / Grey Box / White Box |
-| **Duration** | [X weeks] |
-| **Lead Assessor** | [Name, Credentials] |
+| **Duration** | 1 day |
+| **Lead Assessor* | Shane Matome Letlalo |
 | **Methodology** | OWASP Testing Guide v4.2, PTES, NIST 800-115 |
 
 ## 📁 Repository Structure
@@ -55,4 +55,4 @@ Access is restricted to authorized security professionals and client stakeholder
 
 ---
 
-*
+
