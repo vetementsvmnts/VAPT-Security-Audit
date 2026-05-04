@@ -1,25 +1,58 @@
-# VAPT-Security-Audit
+<p align="center">
+  
+</p>
 
-Professional vulnerability assessment and penetration testing documentation.
+<h1 align="center">VAPT Security Audit </h1>
 
-## 📁 Repository Structure
+<p align="center">
+  <strong>Professional Vulnerability Assessment & Penetration Testing Documentation</strong>
+</p>
 
-| Phase | Folder | Purpose |
-|-------|--------|---------|
-| 1 | `01-scoping/` | Scope documents & asset inventory |
-| 2 | `02-reconnaissance/` | Network maps, OSINT, service enumeration |
-| 3 | `03-vulnerability-assessment/` | Automated scan reports & manual findings |
-| 4 | `04-penetration-testing/` | Exploitation logs, PoCs, session evidence |
-| 5 | `05-reporting/` | **Deliverables: Word reports, executive summaries, risk matrix** |
-| 6 | `06-remediation/` | Remediation tracking & retest validation |
-| — | `99-assets/` | Templates, logos, legal disclaimers |
-
-## 🚀 Quick Start
-
-- **Main report:** [`05-reporting/VAPT_Report_Template.docx`](05-reporting/)
-- **Risk matrix:** [`05-reporting/risk-matrix.xlsx`](05-reporting/)
-- **Legal disclaimers:** [`99-assets/legal-disclaimers.txt`](99-assets/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-green" alt="Status">
+  <img src="https://img.shields.io/badge/Classification-Confidential-red" alt="Classification">
+  <img src="https://img.shields.io/badge/Standard-OWASP%20Top%2010-blue" alt="Standard">
+</p>
 
 ---
 
-*Confidential — Authorized personnel only.*
+## 📋 Engagement Summary
+
+| Detail | Information |
+|--------|-------------|
+| **Client** | [Organization Name] |
+| **Engagement Type** | Black Box / Grey Box / White Box |
+| **Duration** | [X weeks] |
+| **Lead Assessor** | [Name, Credentials] |
+| **Methodology** | OWASP Testing Guide v4.2, PTES, NIST 800-115 |
+
+## 📁 Repository Structure
+
+01-scoping/           → Rules of engagement & asset inventory
+02-reconnaissance/    → OSINT, network mapping, service enumeration
+03-vulnerability-assessment/  → Scan results & manual findings
+04-penetration-testing/       → Exploitation logs & proof of concepts
+05-reporting/         → 📄 Deliverables & risk matrix
+06-remediation/       → Remediation tracking & retest validation
+99-assets/            → Templates, logos, legal disclaimers
+
+
+## 🎯 Key Deliverables
+
+| Document | Location | Status |
+|----------|----------|--------|
+| Executive Summary | `05-reporting/executive-summary/` | [Draft/Final] |
+| Technical Report | `05-reporting/VAPT_Final_Report.docx` | [Draft/Final] |
+| Risk Matrix | `05-reporting/risk-matrix.xlsx` | [Updated] |
+| Remediation Tracker | `06-remediation/remediation-tracker.xlsx` | [Active] |
+
+## 🔒 Classification
+
+**CONFIDENTIAL — Authorized Personnel Only**
+
+This repository contains sensitive security assessment data. 
+Access is restricted to authorized security professionals and client stakeholders.
+
+---
+
+*
