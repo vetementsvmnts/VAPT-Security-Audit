@@ -1,7 +1,5 @@
 # VAPT-Security-Audit
 
-# VAPT Security Audit 
-
 Professional vulnerability assessment and penetration testing documentation.
 
 ## 📁 Repository Structure
