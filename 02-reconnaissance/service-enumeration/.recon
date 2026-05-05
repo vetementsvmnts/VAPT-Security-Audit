@@ -1,6 +1,6 @@
 # Service Enumeration Results
 
-## Host: [IP Address]
+## Host: 192.168.56.101
 
 | Port | Service | Version | Banner | Notes |
 |------|---------|---------|--------|-------|
